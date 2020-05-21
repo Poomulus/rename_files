@@ -1,0 +1,4 @@
+{
+	"directory": "C:/path/to/folder/foward/slash/",
+	"title": "Title_"
+}

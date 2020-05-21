@@ -1,0 +1,5 @@
+{
+	"directory": "C:/Users/pd792/Documents/SkaterXL/Skin/Skateboard/Grips/",
+	"title": "Griptape_"
+}
+
