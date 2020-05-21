@@ -1,5 +1,4 @@
 {
-	"directory": "C:/Users/pd792/Documents/SkaterXL/Skin/Skateboard/Grips/",
-	"title": "Griptape_"
+	"directory": "C:/path/to/folder/foward/slash/",
+	"title": "Title_"
 }
-
